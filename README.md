@@ -11,3 +11,5 @@ To use the Mortgage Calculator simply follow this steps:
 - open the folder in vscode
 - run npm install to assure that all latest versions of the dependencies are installed
 - run npm start
+
+You can either see it at work here : thomasbaldi.github.io/first-react-app/
